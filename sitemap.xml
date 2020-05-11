@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cloudy-dev.github.io/2020/05/10/first-blog/</loc>
+    
+    <lastmod>2020-05-11T06:12:33.418Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://cloudy-dev.github.io/categories/index.html</loc>
     
     <lastmod>2020-05-11T05:49:02.479Z</lastmod>

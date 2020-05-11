@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Just a Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://cloudy-dev.github.io/"/>
+  <updated>2020-05-11T06:12:33.418Z</updated>
+  <id>https://cloudy-dev.github.io/</id>
+  
+  <author>
+    <name>Ryan Zhang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First Blog</title>
+    <link href="https://cloudy-dev.github.io/2020/05/10/first-blog/"/>
+    <id>https://cloudy-dev.github.io/2020/05/10/first-blog/</id>
+    <published>2020-05-11T06:03:00.000Z</published>
+    <updated>2020-05-11T06:12:33.418Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Mon May 11 2020 00:10:20 GMT-0700 (Pacific Daylight Time) --&gt;&lt;p&gt;Hello world!&lt;/p&gt;&lt;p&gt;I created this brand new blog for a new l
+      
+    
+    </summary>
+    
+    
+      <category term="Life" scheme="https://cloudy-dev.github.io/categories/Life/"/>
+    
+    
+  </entry>
+  
+</feed>
