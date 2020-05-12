@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://cloudy-dev.github.io/"/>
-  <updated>2020-05-12T07:15:01.586Z</updated>
-  <id>https://cloudy-dev.github.io/</id>
+  <link href="https://2pb.github.io/"/>
+  <updated>2020-05-12T18:10:50.372Z</updated>
+  <id>https://2pb.github.io/</id>
   
   <author>
     <name>Ryan Zhang</name>
@@ -17,41 +17,41 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>online platform architecture optimization</title>
-    <link href="https://cloudy-dev.github.io/2020/05/11/online-platform-architecture-optimization/"/>
-    <id>https://cloudy-dev.github.io/2020/05/11/online-platform-architecture-optimization/</id>
+    <title>Online platform architecture redesigning</title>
+    <link href="https://2pb.github.io/2020/05/11/online-platform-architecture-redesigning/"/>
+    <id>https://2pb.github.io/2020/05/11/online-platform-architecture-redesigning/</id>
     <published>2020-05-12T06:03:00.000Z</published>
-    <updated>2020-05-12T07:15:01.586Z</updated>
+    <updated>2020-05-12T18:10:50.372Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Tue May 12 2020 00:15:28 GMT-0700 (Pacific Daylight Time) --&gt;&lt;h1 id=&quot;start-from-built&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#s
+        &lt;!-- build time:Tue May 12 2020 11:12:20 GMT-0700 (Pacific Daylight Time) --&gt;&lt;h1 id=&quot;start-from-built&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#s
       
     
     </summary>
     
     
-      <category term="Architecture" scheme="https://cloudy-dev.github.io/categories/Architecture/"/>
+      <category term="Architecture" scheme="https://2pb.github.io/categories/Architecture/"/>
     
-      <category term="Java" scheme="https://cloudy-dev.github.io/categories/Architecture/Java/"/>
+      <category term="Java" scheme="https://2pb.github.io/categories/Architecture/Java/"/>
     
     
-      <category term="Java" scheme="https://cloudy-dev.github.io/tags/Java/"/>
+      <category term="Java" scheme="https://2pb.github.io/tags/Java/"/>
     
-      <category term="Backend" scheme="https://cloudy-dev.github.io/tags/Backend/"/>
+      <category term="Backend" scheme="https://2pb.github.io/tags/Backend/"/>
     
-      <category term="Design" scheme="https://cloudy-dev.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://2pb.github.io/tags/Design/"/>
     
-      <category term="Optimization" scheme="https://cloudy-dev.github.io/tags/Optimization/"/>
+      <category term="Optimization" scheme="https://2pb.github.io/tags/Optimization/"/>
     
   </entry>
   
   <entry>
     <title>First Blog</title>
-    <link href="https://cloudy-dev.github.io/2020/05/10/first-blog/"/>
-    <id>https://cloudy-dev.github.io/2020/05/10/first-blog/</id>
+    <link href="https://2pb.github.io/2020/05/10/first-blog/"/>
+    <id>https://2pb.github.io/2020/05/10/first-blog/</id>
     <published>2020-05-11T06:03:00.000Z</published>
     <updated>2020-05-11T15:42:48.583Z</updated>
     
@@ -59,13 +59,13 @@
     
       
       
-        &lt;!-- build time:Tue May 12 2020 00:15:28 GMT-0700 (Pacific Daylight Time) --&gt;&lt;p&gt;Hello world!&lt;/p&gt;&lt;p&gt;I created this brand new blog for a new l
+        &lt;!-- build time:Tue May 12 2020 11:12:20 GMT-0700 (Pacific Daylight Time) --&gt;&lt;p&gt;Hello world!&lt;/p&gt;&lt;p&gt;I created this brand new blog for a new l
       
     
     </summary>
     
     
-      <category term="Life" scheme="https://cloudy-dev.github.io/categories/Life/"/>
+      <category term="Life" scheme="https://2pb.github.io/categories/Life/"/>
     
     
   </entry>
