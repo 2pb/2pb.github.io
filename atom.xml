@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cloudy-dev.github.io/"/>
-  <updated>2020-05-11T15:42:48.583Z</updated>
+  <updated>2020-05-12T07:15:01.586Z</updated>
   <id>https://cloudy-dev.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>online platform architecture optimization</title>
+    <link href="https://cloudy-dev.github.io/2020/05/11/online-platform-architecture-optimization/"/>
+    <id>https://cloudy-dev.github.io/2020/05/11/online-platform-architecture-optimization/</id>
+    <published>2020-05-12T06:03:00.000Z</published>
+    <updated>2020-05-12T07:15:01.586Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue May 12 2020 00:15:28 GMT-0700 (Pacific Daylight Time) --&gt;&lt;h1 id=&quot;start-from-built&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#s
+      
+    
+    </summary>
+    
+    
+      <category term="Architecture" scheme="https://cloudy-dev.github.io/categories/Architecture/"/>
+    
+      <category term="Java" scheme="https://cloudy-dev.github.io/categories/Architecture/Java/"/>
+    
+    
+      <category term="Java" scheme="https://cloudy-dev.github.io/tags/Java/"/>
+    
+      <category term="Backend" scheme="https://cloudy-dev.github.io/tags/Backend/"/>
+    
+      <category term="Design" scheme="https://cloudy-dev.github.io/tags/Design/"/>
+    
+      <category term="Optimization" scheme="https://cloudy-dev.github.io/tags/Optimization/"/>
+    
+  </entry>
   
   <entry>
     <title>First Blog</title>
@@ -27,7 +59,7 @@
     
       
       
-        &lt;!-- build time:Mon May 11 2020 08:46:43 GMT-0700 (Pacific Daylight Time) --&gt;&lt;p&gt;Hello world!&lt;/p&gt;&lt;p&gt;I created this brand new blog for a new l
+        &lt;!-- build time:Tue May 12 2020 00:15:28 GMT-0700 (Pacific Daylight Time) --&gt;&lt;p&gt;Hello world!&lt;/p&gt;&lt;p&gt;I created this brand new blog for a new l
       
     
     </summary>
