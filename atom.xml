@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://2pb.github.io/"/>
-  <updated>2020-08-05T18:56:25.665Z</updated>
+  <updated>2020-08-05T19:02:49.085Z</updated>
   <id>https://2pb.github.io/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="https://2pb.github.io/2020/08/05/daisy-girl/"/>
     <id>https://2pb.github.io/2020/08/05/daisy-girl/</id>
     <published>2020-08-05T18:48:00.000Z</published>
-    <updated>2020-08-05T18:56:25.665Z</updated>
+    <updated>2020-08-05T19:02:49.085Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Wed Aug 05 2020 11:56:50 GMT-0700 (Pacific Daylight Time) --&gt;&lt;h2 id=&quot;jr-nice-to-meet-u&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#
+        &lt;!-- build time:Wed Aug 05 2020 12:03:31 GMT-0700 (Pacific Daylight Time) --&gt;&lt;h2 id=&quot;jr-nice-to-meet-u&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#
       
     
     </summary>
@@ -47,7 +47,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Aug 05 2020 11:56:50 GMT-0700 (Pacific Daylight Time) --&gt;&lt;h2 id=&quot;start-from-built&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#start-from-built&quot;&gt;&lt;/a&gt; Start from built&lt;/h2&gt;&lt;p&gt;Several years ago, I have designed and implemented &lt;a href=&quot;https://github.com/rzweb-ryan/online-shopping-platform-C2C-Distributed-System&quot; target=&quot;_blank&quot; rel=&quot;external nofollow noopener noreferrer&quot;&gt;a distributed online shopping plaform&lt;/a&gt;. It’s a traditional SpringMVC-Spring-Mybatis distributed services, deployed in AWS EC2, with some extra techological selections. Although the architecture design looks reasonable at the time it was designed, as now the data and business exploses, as well as some cutting-edge technologies come out. It’s a good time to learn and introduce those must-have sources to the “old fasion” system.&lt;/p&gt;&lt;p&gt;The initial design looks like:&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/img/shopping-platform.png&quot; alt=&quot;initial design&quot; style=&quot;width:400px;height:550px&quot;&gt;&lt;/div&gt;&lt;br&gt;&lt;center&gt;&lt;b&gt;online platform initial design&lt;/b&gt;&lt;/center&gt;
+      &lt;!-- build time:Wed Aug 05 2020 12:03:31 GMT-0700 (Pacific Daylight Time) --&gt;&lt;h2 id=&quot;start-from-built&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#start-from-built&quot;&gt;&lt;/a&gt; Start from built&lt;/h2&gt;&lt;p&gt;Several years ago, I have designed and implemented &lt;a href=&quot;https://github.com/rzweb-ryan/online-shopping-platform-C2C-Distributed-System&quot; target=&quot;_blank&quot; rel=&quot;external nofollow noopener noreferrer&quot;&gt;a distributed online shopping plaform&lt;/a&gt;. It’s a traditional SpringMVC-Spring-Mybatis distributed services, deployed in AWS EC2, with some extra techological selections. Although the architecture design looks reasonable at the time it was designed, as now the data and business exploses, as well as some cutting-edge technologies come out. It’s a good time to learn and introduce those must-have sources to the “old fasion” system.&lt;/p&gt;&lt;p&gt;The initial design looks like:&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/img/shopping-platform.png&quot; alt=&quot;initial design&quot; style=&quot;width:400px;height:550px&quot;&gt;&lt;/div&gt;&lt;br&gt;&lt;center&gt;&lt;b&gt;online platform initial design&lt;/b&gt;&lt;/center&gt;
     
     </summary>
     
@@ -74,7 +74,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Aug 05 2020 11:56:50 GMT-0700 (Pacific Daylight Time) --&gt;&lt;p&gt;Hello world!&lt;/p&gt;&lt;p&gt;I created this brand new blog for a new learning session.&lt;/p&gt;
+      &lt;!-- build time:Wed Aug 05 2020 12:03:31 GMT-0700 (Pacific Daylight Time) --&gt;&lt;p&gt;Hello world!&lt;/p&gt;&lt;p&gt;I created this brand new blog for a new learning session.&lt;/p&gt;
     
     </summary>
     
